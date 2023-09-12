@@ -1,4 +1,4 @@
 this is my step to resolve merge conflict
 this is my second step to resolve merge conflict
 This is my third line
-this is my fifth line
+this is my fourth line
